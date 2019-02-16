@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Mvp_Films</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Best Movies For You</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="movie_details">Details</string>
+    <string name="loading">Loading…</string>
+    <string name="empty_movies">No movies :(</string>
+    <string name="rating">Rating \u2014 %1$s/%2$s</string>
+    <string name="movie_title">%1$s \u2014 %2$s</string>
+    <string name="google_maps_key">AIzaSyDjcNC2ySfJ20MOO0TtgEkelHnp71Gh4t4</string>
+
+
+</resources>

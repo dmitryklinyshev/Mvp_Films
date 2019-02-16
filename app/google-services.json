@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "27525189616",
+    "firebase_url": "https://daring-fin-231612.firebaseio.com",
+    "project_id": "daring-fin-231612",
+    "storage_bucket": "daring-fin-231612.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27525189616:android:6de00447b9ab1e35",
+        "android_client_info": {
+          "package_name": "com.dmitry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "27525189616-kfplc7ed6ge0ktenbvocmuavif6nf5lu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQwnmsEaC-b2TRqI44-SwE6zw0_7quseA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27525189616:android:a690092e1acd878b",
+        "android_client_info": {
+          "package_name": "com.example.mvp_films"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "27525189616-kfplc7ed6ge0ktenbvocmuavif6nf5lu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQwnmsEaC-b2TRqI44-SwE6zw0_7quseA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
